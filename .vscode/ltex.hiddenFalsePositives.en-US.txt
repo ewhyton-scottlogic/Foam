@@ -1,0 +1,1 @@
+{"rule":"HYPOTHESIS_TYPOGRAPHY","sentence":"^\\QChange the MariaDB database to an in memory H2 database (followed this guide)\nMake sure the cross-origin was allowing my UI to access the API endpoints\nChange my UI fetch requests to access the API with the new domain name.\\E$"}

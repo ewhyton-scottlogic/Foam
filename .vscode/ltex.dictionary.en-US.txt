@@ -1,3 +1,8 @@
 FriendFace
 optimised
 Optimised
+linearizability
+colour
+honour
+RUs
+upsert

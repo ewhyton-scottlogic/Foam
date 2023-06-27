@@ -1,2 +1,4 @@
 {"rule":"HYPOTHESIS_TYPOGRAPHY","sentence":"^\\QChange the MariaDB database to an in memory H2 database (followed this guide)\nMake sure the cross-origin was allowing my UI to access the API endpoints\nChange my UI fetch requests to access the API with the new domain name.\\E$"}
 {"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QThese values apply to all revisions of a given container app when running in multiple revisions mode.\\E$"}
+{"rule":"MANY_NN","sentence":"^\\QIt has a one to one relationship with the software application and one to many relationship with its corresponding service principal object.\\E$"}
+{"rule":"ALL_OF_THE","sentence":"^\\QYou can delete and create new entries and all of the the CRUD operations.\\E$"}

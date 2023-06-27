@@ -7,3 +7,6 @@ honour
 RUs
 upsert
 Dapr
+MSAL
+realise
+OData

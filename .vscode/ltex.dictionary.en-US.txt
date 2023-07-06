@@ -10,3 +10,6 @@ Dapr
 MSAL
 realise
 OData
+organise
+VNet
+multicloud

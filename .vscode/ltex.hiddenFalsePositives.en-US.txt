@@ -2,3 +2,7 @@
 {"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QThese values apply to all revisions of a given container app when running in multiple revisions mode.\\E$"}
 {"rule":"MANY_NN","sentence":"^\\QIt has a one to one relationship with the software application and one to many relationship with its corresponding service principal object.\\E$"}
 {"rule":"ALL_OF_THE","sentence":"^\\QYou can delete and create new entries and all of the the CRUD operations.\\E$"}
+{"rule":"SOME_OF_THE","sentence":"^\\QThe table highlights some of the key differences.\\E$"}
+{"rule":"ITS_JJ_NNSNN","sentence":"^\\QIt's common practice to organise keys into a hierarchical namespace by using a character delimiter, such as \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q or \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"COMMA_COMPOUND_SENTENCE","sentence":"^\\QYou'd need to have the whole API using events instead of entities, so potentially this would work better for microservices and you'd probably have some sort of mapper so that the other microservices that use entities can easily deal with this events API\\E$"}
+{"rule":"COMMA_COMPOUND_SENTENCE","sentence":"^\\QIf you were to do it as an entity you'd probably have a field which was a list of types of transactions and it might become a bit messy - harder to keep a note of what happened when.\\E$"}
